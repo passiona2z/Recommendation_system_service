@@ -44,3 +44,13 @@ https://passiona2z.github.io/recommendation-project
 - 웹앱 : React
 - 웹 페이지 : github pages,
 - 배포 : yarn
+
+[참고자료]
+- https://product.kyobobook.co.kr/detail/S000200398450
+- https://www.youtube.com/watch?v=V48d4qJiV4U&ab_channel=%ED%83%80%EB%AA%A8%EB%94%94%EC%9E%90%EC%9D%B8TAMO
+- https://grouplens.org/datasets/movielens
+- https://github.com/benfred/implicit
+- https://wikidocs.net/175092
+- https://yoonsu.tistory.com/26
+- https://www.youtube.com/watch?v=0Emq5FypiMM&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9
+- https://www.heropy.dev/p/ijqX9h
